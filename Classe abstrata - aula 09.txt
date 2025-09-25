@@ -1,0 +1,13 @@
+Classe abstrata
+
+- Não permite gerar objetos a partir dela 
+- Precisa utilizar herança
+
+Método abstrato 
+
+- Obriga que as classes filhas implementem determinados métodos
+
+Sobrescrita de métodos
+
+- Implementa novamente um método que já foi implementado na classe mãe
+- Vale a pena quando em várias casses filhas o método tem um determinado comportamento, em apenas uma altera
